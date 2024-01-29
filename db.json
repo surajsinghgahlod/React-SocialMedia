@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "id": "f53c",
+      "name": "asdf",
+      "email": "asdf",
+      "password": "asdf@1234",
+      "repeatPassword": "asdf",
+      "agreeTerms": false
+    },
+    {
+      "id": "51b2",
+      "name": "asdfa",
+      "email": "asdf@123.com",
+      "password": "asdf",
+      "repeatPassword": "asdf"
+    },
+    {
+      "id": "a7e0",
+      "name": "suraj",
+      "email": "asdf@123.com",
+      "password": "asdfasdf",
+      "repeatPassword": "asdfasdf"
+    }
+  ]
+}
